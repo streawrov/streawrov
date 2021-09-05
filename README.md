@@ -1,7 +1,7 @@
 - 👋 Hi, I’m streawkceur
 - 👀 I’m interested in everything ...
 - 🌱 I’m currently learning some basic VRChat Stuff ...
-- 📫 How to reach me: Discord streawkceur#3835
+- 📫 How to reach me: Discord streawkceur#0001
 - ❤️ I love FOSS, but I am new to GitHub
 <!---
 streawrov/streawrov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
